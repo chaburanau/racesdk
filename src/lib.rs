@@ -6,5 +6,6 @@ pub mod am2;
 pub mod bng;
 pub mod iracing;
 pub mod lmu;
+pub mod rr;
 
 mod utils;
